@@ -1,4 +1,4 @@
-package ConditionalStatementsAdvancedLabAndExercise;
+package ConditionalStatementsAdvancedExercise;
 
 import java.util.Scanner;
 

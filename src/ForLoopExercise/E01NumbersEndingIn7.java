@@ -1,4 +1,4 @@
-package ForLoopLabAndExercise;
+package ForLoopExercise;
 
 public class E01NumbersEndingIn7 {
     public static void main(String[] args) {
